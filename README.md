@@ -9,13 +9,13 @@ To run the web application, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Dityaren/Student-Grade-Data-BLockchain
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd your-repository
+cd Student-Grade-Data-BLockchain
 ```
 
 3. Install the dependencies:
